@@ -5,4 +5,3 @@ def greeting(myName)
   puts "Hello #{myName}. It's nice to meet you."
 end
 getName
-greeting()
