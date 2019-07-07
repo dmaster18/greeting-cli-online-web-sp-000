@@ -4,4 +4,3 @@ def greeting(myName)
   myName = gets.strip
   puts "Hello #{myName}. It's nice to meet you."
 end
-getName
